@@ -2,8 +2,6 @@
 
 My personal developer portfolio built with React. It showcases my projects, skills, work experience, and education — all in a clean, minimal UI with dark/light mode support.
 
-**Live:** [rushikeshchavan.netlify.app]([https://rushikesh-chavan-portfolio.netlify.app/])
-
 ---
 
 ## What's inside
@@ -31,8 +29,8 @@ Make sure you have [Node.js](https://nodejs.org/) (v16 or later) installed.
 
 ```bash
 # clone the repo
-git clone https://github.com/rushikeshchavan-7/portfolio.git
-cd portfolio
+git clone https://github.com/rushikeshchavan-7/developer-portfolio.git
+cd developer-portfolio
 
 # install dependencies
 npm install
