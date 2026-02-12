@@ -2,7 +2,7 @@
 
 My personal developer portfolio built with React. It showcases my projects, skills, work experience, and education — all in a clean, minimal UI with dark/light mode support.
 
-**Live:** [rushikeshchavan.netlify.app](https://rushikeshchavan.netlify.app)
+**Live:** [rushikeshchavan.netlify.app]([https://rushikeshchavan.netlify.app](https://rushikesh-chavan-portfolio.netlify.app/))
 
 ---
 
